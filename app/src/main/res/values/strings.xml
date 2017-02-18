@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinancialCat_01</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_instructions">Select an item from the list, scroll as needed.</string>
+    <string name="detail_fragment">This is an example of a simple app. It has the following features:</string>
+    <string name="feature01">One Main Activity with two Fragments</string>
+    <string name="feature02">Fragments are loaded at the onCreate of the app</string>
+    <string name="feature03">The List Fragment has a RecyclerView to present a list of items </string>
+    <string name="feature04">The items come from a LinkedListMap handled by a Key</string>
+    <string name="feature05">The Items data is contained in a POJO</string>
+    <string name="feature06">There is no Fragment Communication nor Listeners or Database features</string>
+
+</resources>
